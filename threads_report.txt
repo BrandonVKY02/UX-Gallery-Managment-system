@@ -1,0 +1,102 @@
+"AWT-EventQueue-0@994" prio=6 tid=0x1a nid=NA waiting
+  java.lang.Thread.State: WAITING
+	  at sun.misc.Unsafe.park(Unsafe.java:-1)
+	  at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	  at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	  at java.awt.EventQueue.getNextEvent(EventQueue.java:554)
+	  at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:187)
+	  at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	  at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	  at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	  at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	  at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+"QuantumRenderer-0@1145" 守护进程 prio=6 tid=0x1d nid=NA waiting
+  java.lang.Thread.State: WAITING
+	  at sun.misc.Unsafe.park(Unsafe.java:-1)
+	  at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	  at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	  at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	  at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	  at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	  at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	  at com.sun.javafx.tk.quantum.QuantumRenderer$PipelineRunnable.run(QuantumRenderer.java:125)
+	  at java.lang.Thread.run(Thread.java:750)
+
+"TimerQueue@2047" 守护进程 prio=5 tid=0x24 nid=NA waiting
+  java.lang.Thread.State: WAITING
+	  at sun.misc.Unsafe.park(Unsafe.java:-1)
+	  at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	  at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	  at java.util.concurrent.DelayQueue.take(DelayQueue.java:211)
+	  at javax.swing.TimerQueue.run(TimerQueue.java:174)
+	  at java.lang.Thread.run(Thread.java:750)
+
+"Thread-3@1173" 守护进程 prio=6 tid=0x1f nid=NA waiting
+  java.lang.Thread.State: WAITING
+	  at sun.misc.Unsafe.park(Unsafe.java:-1)
+	  at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	  at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	  at java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:492)
+	  at com.sun.glass.ui.InvokeLaterDispatcher.run(InvokeLaterDispatcher.java:108)
+
+"JavaFX Application Thread@1184" prio=6 tid=0x20 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	  at com.sun.glass.ui.win.WinApplication._runLoop(WinApplication.java:-1)
+	  at com.sun.glass.ui.win.WinApplication.lambda$null$3(WinApplication.java:177)
+	  at com.sun.glass.ui.win.WinApplication$$Lambda$47.92024230.run(Unknown Source:-1)
+	  at java.lang.Thread.run(Thread.java:750)
+
+"D3D Screen Updater@1963" 守护进程 prio=7 tid=0x23 nid=NA waiting
+  java.lang.Thread.State: WAITING
+	  at java.lang.Object.wait(Object.java:-1)
+	  at sun.java2d.d3d.D3DScreenUpdateManager.run(D3DScreenUpdateManager.java:423)
+	  at java.lang.Thread.run(Thread.java:750)
+
+"AWT-Windows@929" 守护进程 prio=6 tid=0x18 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	  at sun.awt.windows.WToolkit.eventLoop(WToolkit.java:-1)
+	  at sun.awt.windows.WToolkit.run(WToolkit.java:316)
+	  at java.lang.Thread.run(Thread.java:750)
+
+"AWT-Shutdown@927" prio=5 tid=0x17 nid=NA waiting
+  java.lang.Thread.State: WAITING
+	  at java.lang.Object.wait(Object.java:-1)
+	  at java.lang.Object.wait(Object.java:502)
+	  at sun.awt.AWTAutoShutdown.run(AWTAutoShutdown.java:295)
+	  at java.lang.Thread.run(Thread.java:750)
+
+"Java2D Disposer@925" 守护进程 prio=10 tid=0x16 nid=NA waiting
+  java.lang.Thread.State: WAITING
+	  at java.lang.Object.wait(Object.java:-1)
+	  at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+	  at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:165)
+	  at sun.java2d.Disposer.run(Disposer.java:148)
+	  at java.lang.Thread.run(Thread.java:750)
+
+"Finalizer@2527" 守护进程 prio=8 tid=0x3 nid=NA waiting
+  java.lang.Thread.State: WAITING
+	  at java.lang.Object.wait(Object.java:-1)
+	  at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+	  at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:165)
+	  at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:188)
+
+"Reference Handler@2528" 守护进程 prio=10 tid=0x2 nid=NA waiting
+  java.lang.Thread.State: WAITING
+	  at java.lang.Object.wait(Object.java:-1)
+	  at java.lang.Object.wait(Object.java:502)
+	  at java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+	  at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+
+"Thread-4@1305" 守护进程 prio=5 tid=0x21 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+
+"DestroyJavaVM@996" prio=5 tid=0x1b nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+
+"Attach Listener@2525" 守护进程 prio=5 tid=0x5 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+
+"Signal Dispatcher@2526" 守护进程 prio=9 tid=0x4 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+

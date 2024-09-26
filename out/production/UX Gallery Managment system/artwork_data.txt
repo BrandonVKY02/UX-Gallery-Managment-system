@@ -1,0 +1,156 @@
+artworkName:The Fool
+artworkID:0
+artworkPrice:512.25
+artist:Kaya
+status:Sellout
+detail:The Fool
+artworkName:The Magician
+artworkID:1
+artworkPrice:258.23
+artist:Kaya
+status:onSale
+detail:Amiya is a young magician from Arknight.
+artworkName:The High Priestess
+artworkID:2
+artworkPrice:827.50
+artist:Kaya
+status:onSale
+detail:The High Priestess
+artworkName:The Empress
+artworkID:3
+artworkPrice:233.50
+artist:Kaya
+status:onSale
+detail:The Empress
+artworkName:The Emperor
+artworkID:4
+artworkPrice:815.23
+artist:Kaya
+status:onSale
+detail:The Emperor
+artworkName:Hellagur
+artworkID:5
+artworkPrice:312.25
+artist:Kaya
+status:onSale
+detail:The Hierophant
+artworkName:The Lovers
+artworkID:6
+artworkPrice:722.43
+artist:Kaya
+status:onSale
+detail:The Lovers
+artworkName:The Chariot
+artworkID:7
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:The Chariot
+artworkName:Strength
+artworkID:8
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:Strength
+artworkName:The Hermit
+artworkID:9
+artworkPrice:377.28
+artist:Kaya
+status:onSale
+detail:The Hermit
+artworkName:Wheel of Fortune
+artworkID:10
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:Wheel of Fortune
+artworkName:Justice
+artworkID:11
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:Justice
+artworkName:The Hanged Man
+artworkID:12
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:The Hanged Man
+artworkName:Death
+artworkID:13
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:Death
+artworkName:Temperance
+artworkID:14
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:Temperance
+artworkName:The Devil
+artworkID:15
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:The Devil
+artworkName:The Tower
+artworkID:16
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:The Tower
+artworkName:The Star
+artworkID:17
+artworkPrice:273.24
+artist:Kaya
+status:saleOut
+detail:The Star
+artworkName:The Moon
+artworkID:18
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:The Moon
+artworkName:The Sun
+artworkID:19
+artworkPrice:277.50
+artist:Kaya
+status:onSale
+detail:The Sun
+artworkName:Judgement
+artworkID:20
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:Judgement
+artworkName:The World
+artworkID:21
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:The World
+artworkName:Doctor
+artworkID:22
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:Doctor
+artworkName:Astesia
+artworkID:23
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:Astesia
+artworkName:Texas
+artworkID:24
+artworkPrice:273.24
+artist:Kaya
+status:onSale
+detail:Texas
+artworkName:Thorns
+artworkID:25
+artworkPrice:52.25
+artist:Kaya
+status:onSale
+detail:artworkDetail

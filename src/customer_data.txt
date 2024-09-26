@@ -1,0 +1,25 @@
+ID:0
+Name:Donn Rivers
+Phone Number:0109456797
+Artwork Purchases:The Magician,The Empress
+Artist Preferences:WaterColour,Abstract
+ID:1
+Name:Stacey Mcmahon
+Phone Number:0109822195
+Artwork Purchases:Strength,Temperance,The Tower
+Artist Preferences:Background, Unknown
+ID:2
+Name:Stacy Yates
+Phone Number:0108818251
+Artwork Purchases:The Fool,The High Priestess,The Lovers,The Hanged Man
+Artist Preferences: Cartoon
+ID:3
+Name:Jarred Rush
+Phone Number:0103289516
+Artwork Purchases:The Devil
+Artist Preferences:WaterColour
+ID:4
+Name:Chauncey Foley
+Phone Number:0103289516
+Artwork Purchases:Wheel of Fortune,Justice,Death,The Star
+Artist Preferences:Abstract,Background

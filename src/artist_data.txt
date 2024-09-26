@@ -1,0 +1,31 @@
+ID:0
+Name:Kaya
+Specialty:cartoon
+Alive:Yes
+Price Range:10-1000
+Country:China
+ID:1
+Name:DistantObserver
+Specialty:WaterColour
+Alive:Yes
+Price Range:50-150
+Country:Malaysia
+ID:2
+Name:DistinctlyUnique
+Specialty:Abstract
+Alive:Yes
+Price Range:100-300
+Country:Germany
+ID:3
+Name:Jeong Hyo-Sonn
+Specialty:Background
+Alive:No
+Price Range:1000-6000
+Country:South Korea
+ID:4
+Name:TestingTheWaters
+Specialty:Unknown
+Alive:No
+Price Range:3000-8000
+Country:French
+
